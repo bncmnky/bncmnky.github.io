@@ -6,8 +6,8 @@
 </head>
 <body>
     <h1>Welcome to My Website!</h1>
-    <p>I'm an enthusiastic and experienced Process engineer with a B.Sc in Biomedical engineering. 
-        I enjoy tackling issues and solving problems the various data analysis and problem solving skills I've aquired.</p> 
+    <p>Welcome to My Portfolio!
+I am an enthusiastic and experienced Process Engineer with a B.Sc. in Biomedical Engineering. \nI thrive on tackling challenges and solving complex problems using my diverse data analysis and problem-solving skills. My passion for engineering and commitment to continuous learning drive me to find innovative solutions in my field..</p> 
     <p>Check out 
         <a href="https://bncmnky.github.io" target="_blank">My Portfolio</a>
     </p>
