@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Welcome to My Website!</h1>
-      <button id="openTabButton">Open My Portfolio</button>
+      <button id="openTabButton" href = " " target="_blank"> Open My Portfolio</button>
     <p>Check out 
         <a href="https://bncmnky.github.io" target="_blank">My Portfolio</a>
     </p>
