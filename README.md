@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1>Welcome to My GitHub Page!</h1>
-    <p>Check out <a href="https://bncmnky.github.io" target="_parent">My Portfolio</a></p>
+    <p>Check out <a href="https://bncmnky.github.io" target="_myFrame">My Portfolio</a></p>
 </body>
 </html>
