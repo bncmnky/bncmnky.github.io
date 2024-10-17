@@ -21,7 +21,6 @@
         document.getElementById('openTabButton').addEventListener('click', function() {
             // Open a new tab with your URL
             window.open('https://bncmnky.github.io', '_blank');  // Opens your link in a new tab
-        });
     </script>
 </body>
 </html>
